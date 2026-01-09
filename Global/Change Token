@@ -1,2 +1,2 @@
-jwtToken = "JWT blahblahblah"
+jwtToken = "25,000"
 localStorage.setItem("token", jwtToken)
